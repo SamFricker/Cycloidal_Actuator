@@ -16,9 +16,9 @@ A fully custom-designed **quasi-direct drive actuator** combining a custom BLDC 
 - Gain further CAD experience (Fusion 360)
 
 ## Key Specs
-- ~32 pole BLDC motor
+- 32 pole BLDC motor
 - N52 magnets
-- Internal cycloidal gearbox (~10:1)
+- Internal cycloidal gearbox (10:1)
 - Magnetic encoder (top-mounted)
 - Arduino controlled
 - Custom 3D printed bearings
