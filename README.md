@@ -3,8 +3,8 @@
 A fully custom-designed **quasi-direct drive actuator** combining a custom BLDC motor with an internal cycloidal gearbox.
 
 ## CAD Design
-!(CAD)[images/CAD]
-!(Cross section)[images/CrossSection]
+![CAD](images/CAD)
+![Cross section](images/CrossSection)
 ## Goals
 - Learn electromagnetism and motor design
 - Build a low-cost actuator alternative
