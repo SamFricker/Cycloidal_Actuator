@@ -5,7 +5,10 @@ A fully custom-designed **quasi-direct drive actuator** combining a custom BLDC 
 ## CAD Design
 ![CAD](images/CAD.png)
 ![Cross section](images/CrossSection.png)
+
+## Drawings
 ![drawings](images/drawings.png)
+
 ## Goals
 - Learn electromagnetism and motor design
 - Build a low-cost actuator alternative
